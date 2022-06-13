@@ -1,8 +1,9 @@
 \begin{thebibliography}{1}
 
-\bibitem{martin2009clean}
-Robert~C. Martin and James~O. Coplien.
-\newblock {\em Clean code: a handbook of agile software craftsmanship}.
-\newblock Prentice Hall, Upper Saddle River, NJ [etc.], 2009.
+\bibitem{HumbleFarley10}
+Jez Humble and David~G. Farley.
+\newblock {\em Continuous Delivery: Reliable Software Releases through Build,
+  Test, and Deployment Automation}.
+\newblock Addison-Wesley, Upper Saddle River, NJ, 2010.
 
 \end{thebibliography}
