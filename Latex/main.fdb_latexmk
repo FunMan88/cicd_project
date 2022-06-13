@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1652000929 "main.aux" "main.bbl" "main" 1652001087
+["bibtex main"] 1655123718 "main.aux" "main.bbl" "main" 1655123788
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1652001086 741 50c6361d0d91d63cfdfb50ec5a665137 "pdflatex"
-  "refs.bib" 1641565216 890 c51fcc3f5c34e2b6c1c91f542ae09767 ""
+  "main.aux" 1655123788 741 50c6361d0d91d63cfdfb50ec5a665137 "pdflatex"
+  "refs.bib" 1655123524 890 c51fcc3f5c34e2b6c1c91f542ae09767 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1652001086 "/Users/renehorschinger/Hagenberg/MC_Master/2_Semester/Blockchain/project/Latex/main.tex" "main.pdf" "main" 1652001087
-  "/Users/renehorschinger/Hagenberg/MC_Master/2_Semester/Blockchain/project/Latex/main.tex" 1652001084 1395 855733cafa8f126b8d2026aff8ec9219 ""
+["pdflatex"] 1655123787 "/Users/renehorschinger/Hagenberg/MC_Master/2_Semester/ContinuousDelivery/project/cicd_project/Latex/main.tex" "main.pdf" "main" 1655123788
+  "/Users/renehorschinger/Hagenberg/MC_Master/2_Semester/ContinuousDelivery/project/cicd_project/Latex/main.tex" 1655123772 1627 a0e2b4cbfb1c56b59e34ee913ea3ae4f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -80,10 +80,10 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1651850592 2826431 e848fb35ba820ca2a790e99fe8ae9550 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "IEEEtran.cls" 1440636524 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "images/1productivity.png" 1641570165 121491 bd3ae0761579b4d621b4d1b0b51d6fe9 ""
-  "main.aux" 1652001086 741 50c6361d0d91d63cfdfb50ec5a665137 "pdflatex"
-  "main.bbl" 1652000929 250 d7a511f9c97eacbfc8c19f86f8eaf933 "bibtex main"
-  "main.tex" 1652001084 1395 855733cafa8f126b8d2026aff8ec9219 ""
+  "images/1.png" 1655123547 291862 caf04822ad7544d93ce76be994f1bbbb ""
+  "main.aux" 1655123788 741 50c6361d0d91d63cfdfb50ec5a665137 "pdflatex"
+  "main.bbl" 1655123718 250 d7a511f9c97eacbfc8c19f86f8eaf933 "bibtex main"
+  "main.tex" 1655123772 1627 a0e2b4cbfb1c56b59e34ee913ea3ae4f ""
   (generated)
   "main.aux"
   "main.log"
