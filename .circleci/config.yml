@@ -37,5 +37,5 @@ workflows:
           device: iPhone XS 
           bundle-install: true 
           pod-install: true 
-          cocoapods-working-directory: smartHome
-          bundler-working-directory: smartHome
+          cocoapods-working-directory: src/smartHome
+          bundler-working-directory: src/smartHome
