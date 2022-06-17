@@ -6,7 +6,6 @@ jobs:
   build-and-test:
     macos:
       xcode: "13.4.1"
-    working_directory: /Users/distiller/cicd_project
     environment:
       FL_OUTPUT_DIR: output
       FASTLANE_LANE: test
